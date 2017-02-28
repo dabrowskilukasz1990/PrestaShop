@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>tekst</name>
+	<displayName><![CDATA[tekst]]></displayName>
+	<version><![CDATA[0.0.1]]></version>
+	<description><![CDATA[tekst]]></description>
+	<author><![CDATA[l dabrowski]]></author>
+	<tab><![CDATA[other]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
